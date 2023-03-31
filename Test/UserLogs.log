@@ -1,0 +1,107 @@
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 2 
+INFO Step Description :Please clickbyparam in File_975 
+INFO Object Name :File_975 
+INFO Step Action :clickbyparam 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 3 
+INFO Step Description :Please concatandstorenew in Runtime 
+INFO Object Name :Runtime 
+INFO Step Action :concatandstorenew 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 4 
+INFO Step Description :Value was fetched successfully, which was stored in the runtime parameters. 
+INFO Object Name :Runtime 
+INFO Step Action :Get from Runtime 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 5 
+INFO Step Description :Please Click Text By Xpath New in View_966 
+INFO Object Name :View_966 
+INFO Step Action :Click Text By Xpath New 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 6 
+INFO Step Description :Please Is Element Present By Param in Referral Management_494 
+INFO Object Name :Referral Management_494 
+INFO Step Action :Is Element Present By Param 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 7 
+INFO Step Description :Please Click Text By Xpath in Pane Element Test1 
+INFO Object Name :Pane Element Test1 
+INFO Step Action :Click Text By Xpath 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 8 
+INFO Step Description :Please Validate ByText Byxpath in Pane Element Test1 
+INFO Object Name :Pane Element Test1 
+INFO Step Action :Validate ByText Byxpath 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 9 
+INFO Step Description :Please getdate in Runtime 
+INFO Object Name :Runtime 
+INFO Step Action :getdate 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 10 
+INFO Step Description :Please clickbyparam in DateCheckTest 
+INFO Object Name :DateCheckTest 
+INFO Step Action :clickbyparam 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 11 
+INFO Step Description :Execution was on hold, until visibility of the element Web Doc_0720 in web page. 
+INFO Object Name :Web Doc_0720 
+INFO Step Action :Wait for Element Present 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 12 
+INFO Step Description :Execution was paused for the given time. 
+INFO Object Name :wait 
+INFO Step Action :Pause 
+INFO Step Passed 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 13 
+INFO Step Description :Key is pressed successfully in Key Board. 
+INFO Object Name :Runtime 
+INFO Step Action :Scroll Up By Keyboard 
+INFO Step Skipped... 
+
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+INFO Step No. : 14 
+INFO Step Description : 
+INFO Object Name :null 
+INFO Step Action :null 
+INFO Step No. : 15 
+INFO Step Description :Key is pressed successfully in Key Board. 
+INFO Object Name :Runtime 
+INFO Step Action :Keyboard Action 
+INFO Step No. : 16 
+INFO Step Description : 
+INFO Object Name :null 
+INFO Step Action :null 
+ERROR Step Result Failed: PostWithTD : java.lang.NullPointerException 
+ERROR Step Result Failed: KeyboardAction : java.lang.NullPointerException 
